@@ -1,1 +1,1 @@
-# Diagonal-Difference-algo
+# Diagonal-Difference-algo This program calculates the absolute difference between the sums of a square matrix’s two diagonals. It adds up the **primary diagonal** (top-left to bottom-right) and the **secondary diagonal** (top-right to bottom-left), then returns their difference.
